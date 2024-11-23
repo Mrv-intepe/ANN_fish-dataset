@@ -6,6 +6,6 @@ Modeli daha iyi eğitebilmek için Data augmatin kısmında  zoom_range, rotatio
 Model kısmında modelin sonuçlarını iyileştirek şekilde Dense ve Dropout ekleyip çıkardım. 
 Modeli eğitirken Early Stopping kullanarak overfitting'in önüne geçmek ve gereksiz yere uzun eğitim süresini engellemek için kullandım.
 Test accuracy:0.9 
-Değerlendirme sonucumda örnek görüntü vererek modelime tahmin yaptırdım
+Değerlendirme sonucumda örnek görüntü vererek modelime tahmin yaptırdım.
 
 https://www.kaggle.com/code/merveintepe/ann-fish-dataset 
